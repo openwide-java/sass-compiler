@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/vaadin/sass-compiler).
+
+
 A pure Java implementation of the http://sass-lang.com compiler
 
 This project has previously a part of the Vaadin Framework
